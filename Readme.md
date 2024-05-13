@@ -39,7 +39,7 @@
 ```
 cd /opt/
 mkdir docker_arl
-wget -O docker_arl/docker.zip https://github.com/TophantTechnology/ARL/releases/download/v2.6/docker.zip
+wget -O docker_arl/docker.zip https://github.com/3122365857/FurARL/releases/download/Backup/docker.zip
 cd docker_arl
 unzip -o docker.zip
 docker-compose pull
