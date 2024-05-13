@@ -147,7 +147,7 @@ use arl
 db.user.drop()
 db.user.insert({ username: 'admin',  password: hex_md5('arlsalt!@#'+'admin123') })
 ```
-
+### 以下文件可能无法正常运行，请手动配置
 
 ### 源码安装
 
